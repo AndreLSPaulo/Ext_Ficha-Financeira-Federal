@@ -31,3 +31,5 @@ python-Levenshtein  # Otimiza fuzzywuzzy
 
 # Ghostscript (Necessário para Camelot, mas pode precisar de instalação manual no servidor)
 ghostscript
+
+pip install PyMuPDF

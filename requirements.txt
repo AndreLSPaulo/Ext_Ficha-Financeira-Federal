@@ -11,6 +11,7 @@ PyPDF2==3.0.1
 pdfplumber  # Melhor extração de tabelas em PDFs
 pdf2image==1.16.3
 reportlab  # Necessário para manipular PDFs
+PyMuPDF  # Necessário para importar o módulo fitz
 
 # Manipulação de textos e documentos
 python-docx  # Criação de documentos DOCX
@@ -31,5 +32,3 @@ python-Levenshtein  # Otimiza fuzzywuzzy
 
 # Ghostscript (Necessário para Camelot, mas pode precisar de instalação manual no servidor)
 ghostscript
-
-pip install PyMuPDF
